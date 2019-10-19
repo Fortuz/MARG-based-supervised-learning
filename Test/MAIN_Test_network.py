@@ -46,7 +46,7 @@ pd.set_option('display.max_columns', 50)
 
 # ========= Data Manipulation ===============
 # Load in the measurement data
-folder = '..\\RawData\\Pendulum_03'
+folder = '..\\RawData\\Pendulum'
 date_train = '2019_ 02_ 27_16_17_33_'
 date_test  = '2019_ 02_ 27_16_18_44_'
 df_train = Data_mod_Load(folder, date_train)
