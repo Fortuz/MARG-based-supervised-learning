@@ -17,4 +17,5 @@ MeasurementInfo file contains the neccecary information for the actual log files
 
 ===============================================================================
 *_IMU.txt file contains the measuremnt for the MARG sensor
+
 *_MoCap.txt file contains the measurement for the MoCap system
