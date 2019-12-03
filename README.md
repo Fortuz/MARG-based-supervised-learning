@@ -16,6 +16,7 @@ the sensor signals were recorded syncronously.
 MeasurementInfo file contains the neccecary information for the actual log files.
 
 ===============================================================================
+
 Structure of the project:
 =========================
 RawData:
