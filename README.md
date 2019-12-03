@@ -18,25 +18,25 @@ MeasurementInfo file contains the neccecary information for the actual log files
 ===============================================================================
 
 Structure of the project:
-=========================
+==
 
 RawData:
-========
+==
 Contains 2 measurement set
 Linear measurement
 Pendulum measurement
 Both test cases contans the MoCap and IMU data in a separate file
 
 Simulation:
-===========
+==
 Sin wave based simulation to tst different learning architectures
 
 Test:
-=====
+==
 Different algorithms that uses the measurement files from the RawData folder
 
 JupyterNotebook:
-=====
+==
 Contains the different architectures from the Test folder in Jupyter Notebook implementations 
 to make testing more convinient in GoogleColab environment 
 
